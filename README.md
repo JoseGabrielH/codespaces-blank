@@ -1,1 +1,1 @@
-# our first class de ED_1
+# Our first class de ED_1.
